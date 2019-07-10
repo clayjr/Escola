@@ -1,3 +1,11 @@
+# Projeto Criado Por: Cleiton Junior
+print("""
+#######   #         ######   #     #
+#         #         #    #    #  # 
+#         #         ######      #
+#         #         #    #      #
+#######   ########  #    #      #  | Calculador de PG
+""")
 n = int(input("Informe quantos elementos ira somar na PG: "))
 r = float(input("Informe a razao entre os elementos: "))
 primeiroelemento = float(input("Informe o primeiro elemento: "))

@@ -1,4 +1,12 @@
 # Projeto Criado Por: Cleiton Junior
+print("""
+#######   #         ######   #     #
+#         #         #    #    #  # 
+#         #         ######      #
+#         #         #    #      #
+#######   ########  #    #      #  | Calculador de PG
+""")
+
 
 primeiro=int(input("Primeiro elemento: ") )
 razao = int(input("Razao: ") )
