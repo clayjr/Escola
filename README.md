@@ -2,4 +2,25 @@
 Projetos focados para ensino médio
 
 
-# /Todos scripts desenvolvidos serão para uso pessoal/
+Todo script criado é para fins educacionais
+
+# Materia mais usadas:
+- [X] Matematica 
+- [X] Fisica
+- [ ] Biologia
+- [ ] Portugues
+- [ ] História
+- [ ] Filosofia
+- [ ] Ingles
+- [ ] Sociologia
+- [ ] Biologia
+- [ ] Ed Fisica
+- [ ] Temas
+
+
+
+
+
+
+
+
