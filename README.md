@@ -28,9 +28,11 @@ Todo script criado é para fins educacionais
 - Baixar QPYthon3 abrir nomedoarquivo.py e dar run
 
 # Primeira Forma:
-
+ 
 > 1 - Baixar Termux na Play Store: <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a>
+
 > 2 - Instalando Python: pkg install python
+
 > 3 - localizar pasta que esta o arquivo " para ver as pastas é ls, para entrar na pasta é cd + nome da pasta"
 
 
