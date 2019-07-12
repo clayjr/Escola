@@ -21,7 +21,7 @@ Todo script criado é para fins educacionais
 
 - [X] Python 
 
-function teste
+> function teste
 
 
 
