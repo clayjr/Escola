@@ -21,8 +21,9 @@ Todo script criado é para fins educacionais
 
 - [X] Python 
 
-> function teste
+Como executar os scripts?
 
+> "Baixar Termux na Play Store: <a href="teste">Termux</a>"
 
 
 
