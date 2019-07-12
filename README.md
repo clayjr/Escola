@@ -4,7 +4,7 @@ Projetos focados para ensino médio
 
 Todo script criado é para fins educacionais
 
-# Materia mais usadas:
+# Materia usadas no momento:
 - [X] Matematica 
 - [X] Fisica
 - [ ] Biologia
@@ -16,6 +16,12 @@ Todo script criado é para fins educacionais
 - [ ] Biologia
 - [ ] Ed Fisica
 - [ ] Temas
+
+# Linguagem de Programação usada:
+
+- [X] Python 
+
+function teste
 
 
 
