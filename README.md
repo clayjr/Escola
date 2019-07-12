@@ -30,10 +30,12 @@ Todo script criado é para fins educacionais
 # Primeira Forma:
  
 > 1 - Baixar Termux na Play Store: <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a>
-![Captura de tela_2019-07-09_23-57-40](https://user-images.githubusercontent.com/47020935/61100600-25769700-a43d-11e9-8f81-9e5dc9fcf412.png)
 
+![Termux](https://user-images.githubusercontent.com/47020935/61100859-088e9380-a43e-11e9-9908-2949a3ad9197.jpg)
 
 > 2 - Instalando Python: pkg install python
+
+![PKG INSTALL](https://user-images.githubusercontent.com/47020935/61100875-16dcaf80-a43e-11e9-9d0c-d9bc6ab44d89.jpg)
 
 > 3 - localizar pasta que esta o arquivo " para ver as pastas é ls, para entrar na pasta é cd + nome da pasta"
 
