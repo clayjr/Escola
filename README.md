@@ -39,6 +39,11 @@ Todo script criado é para fins educacionais
 
 > 3 - localizar pasta que esta o arquivo " para ver as pastas é ls, para entrar na pasta é cd + nome da pasta"
 
+# Segunda Forma:
+
+> Baixar QPython3: <a href="https://play.google.com/store/apps/details?id=org.qpython.qpy3" QPython3 </a>
+
+> Clicar em Editor > Open > Executar
 
 
 
