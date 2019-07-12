@@ -1,11 +1,11 @@
-# POTENCIA
+# Potencia
 # Projeto Criado Por: Cleiton Junior
 print("""
 #######   #         ######   #     #
 #         #         #    #    #  # 
 #         #         ######      #
 #         #         #    #      #
-#######   ########  #    #      #  | Calculador de POTENCIA
+#######   ########  #    #      #  | Calculador de Potencia
 """)
 
 a = (input('Digite um numero: '))
