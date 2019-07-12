@@ -44,7 +44,7 @@ Todo script criado é para fins educacionais
 > Baixar QPython3: <a href="https://play.google.com/store/apps/details?id=org.qpython.qpy3"> QPython3 </a>
 ![Screenshot_20190712-004822_Google Play Store](https://user-images.githubusercontent.com/47020935/61101125-1690e400-a43f-11e9-8fdc-549b4817afd1.jpg)
 
-> Clicar em Editor > Open > Executar
+> Clicar em Editor > Open "Escolher o arquivo"/ > Executar
 
 ![_QPython3](https://user-images.githubusercontent.com/47020935/61101364-e0079900-a43f-11e9-9775-3c34a6b5c658.jpg)
 
