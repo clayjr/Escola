@@ -30,7 +30,8 @@ Todo script criado é para fins educacionais
 # Primeira Forma:
  
 > 1 - Baixar Termux na Play Store: <a href="https://play.google.com/store/apps/details?id=com.termux">Termux</a>
-https://user-images.githubusercontent.com/47020935/61100570-07109b80-a43d-11e9-936e-34d33583e499.png
+![Captura de tela_2019-07-09_23-57-40](https://user-images.githubusercontent.com/47020935/61100600-25769700-a43d-11e9-8f81-9e5dc9fcf412.png)
+
 
 > 2 - Instalando Python: pkg install python
 
